@@ -8,6 +8,7 @@
       "div",
       "footer",
       "h1",
+      "h2",
       "h3",
       "head",
       "header",
@@ -19,6 +20,7 @@
       "main",
       "meta",
       "nav",
+      "ol",
       "p",
       "path",
       "script",
@@ -30,6 +32,11 @@
       "ul"
     ],
     "classes": [
+      "aag",
+      "accordions",
+      "breadcrumb",
+      "breadcrumbs",
+      "breadcrumbs-list",
       "button",
       "categories",
       "column",
@@ -43,6 +50,8 @@
       "dropdown-group",
       "dropdown-nav",
       "dropdown-selected",
+      "example-page",
+      "faq",
       "footer",
       "footer-hr",
       "footer__cta",
@@ -53,7 +62,9 @@
       "hamburger-box",
       "hamburger-inner",
       "header",
+      "join",
       "language-selector",
+      "list",
       "main-menu",
       "main-menu-cta",
       "main-menu-search",
@@ -70,7 +81,10 @@
       "page",
       "page-404",
       "page-home",
+      "page-page",
+      "page-section",
       "page-taxonomy",
+      "resource",
       "site-title",
       "site-title-link",
       "skip-link",
@@ -86,7 +100,11 @@
     ],
     "ids": [
       "-geographers-for-justice-in-palestine-stands-for-safety-justice-equality-and-freedom-for-all-people-and-calls-on-the-us-government-to-stop-the-imminent-genocide-of-palestinians",
-      "content"
+      "aag",
+      "content",
+      "example-page",
+      "join",
+      "resources"
     ]
   }
 }
