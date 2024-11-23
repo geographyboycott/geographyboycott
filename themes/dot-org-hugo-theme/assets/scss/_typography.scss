@@ -13,12 +13,24 @@ body {
 }
 
 .title {
+    font-size: 14vw;
     margin-block-start: 70px;
     margin-block-end: 50px;
     @media (min-width: $desktop-width) {
         margin-block-start: 100px;
         margin-block-end: 80px;
     }
+    background-image: linear-gradient(
+        to bottom,
+        var(--black) 0%,
+        var(--black) 25%,
+        var(--pal-red) 25%,
+        var(--pal-red) 75%,
+        var(--pal-green) 75%,
+        var(--pal-green) 100%
+    );
+    color: transparent;
+    background-clip: text;
 }
 
 h1,
