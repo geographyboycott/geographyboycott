@@ -1,6 +1,8 @@
 ######################## production configuration ####################
 # The base URL of your site (required). This will be prepended to all relative URLs.
 baseURL: https://geographyboycott.github.io/geographyboycott/
+relativeURLs: true
+canonifyURLs: true
 googleAnalytics:
 enableRobotsTXT: true
 build:
