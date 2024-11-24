@@ -61,7 +61,7 @@
 
     .site-title-link {
         text-decoration: none;
-        color: var(--primary-400);
+        // color: var(--pal-green);
         text-transform: uppercase;
         font-family: var(--condensed-font-family);
         font-weight: 700;
@@ -73,6 +73,17 @@
         @media (min-width: $desktop-width) {
             font-size: 28px;
         }
+        background-image: linear-gradient(
+            to bottom,
+            var(--black) 25%,
+            var(--black) 40%,
+            var(--pal-red) 40%,
+            var(--pal-red) 50%,
+            var(--pal-green) 50%,
+            var(--pal-green) 75%
+        );
+        color: transparent;
+        background-clip: text;
     }
 }
 
