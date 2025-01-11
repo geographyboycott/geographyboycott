@@ -2,64 +2,56 @@ en:
   languageName: English
   weight: 1
   ### copyright (markdown can be used) ###
-  copyright: "Copyright &copy; {{< current_year >}} Geographers for Justice in Palestine. [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en). [Dot Org Theme](https://github.com/cncf/dot-org-hugo-theme) for Hugo by [CNCF](https://www.cncf.io)."
+  # copyright: "Copyright &copy; {{< current_year >}} Geographers for Justice in Palestine. [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en). [Dot Org Theme](https://github.com/cncf/dot-org-hugo-theme) for Hugo by [CNCF](https://www.cncf.io)."
   title: "Geography Boycott"
   params:
     description: "Geographers for Justice in Palestine"
     ### accessibility ###
-    accessibility:
-      skip_text: "Skip to content"
-      help_text: "Accessibility Statement"
-      help_url: "/example-page/"
+    # accessibility:
+    #   skip_text: "Skip to content"
+    #   help_text: "Accessibility Statement"
+    #   help_url: "/example-page/"
     ### calls to action ###
     main_cta:
-      text: "Join"
-      link: "/join/"
+      text: "Sign up"
+      link: "/pledge/"
     footer_cta:
       text: "Join us"
-      link: "/join/"
+      link: "/pledge/"
     # github_edit: "Edit this page on GitHub"
-  ### example menu showing children ###
+    ### example menu showing children ###
   menu:
     main:
-    - identifier: "about"
-      name: "About"
-      url: "/example-page/"
-      weight: 1
-    - identifier: "child-1"
-      name: "Example Child Page"
-      url: "/example-page/"
-      weight: 1
-      post: "Nulla consequat massa quis enim. Donec pede justo."
-      parent: "about"
-    - identifier: "child-2"
-      name: "Example Child Page"
-      url: "/example-page/"
-      weight: 2
-      post: "Aenean commodo ligula get dolor. Aenean massa."
-      parent: "about"
-    # - identifier: "child-3"
-    #   name: "Example External page"
-    #   url: "https://cncf.io?ref=dot-org"
-    #   weight: 3
-    #   post: "Lorem ipsum dolor sit amet consectetuer adipiscing elit aenean commodo."
-    #   parent: "about"
     - identifier: "aag"
-      name: "AAG"
+      name: "AAG 2025"
       url: "/aag/"
+      weight: 1
+    - identifier: "sessions"
+      name: "Sessions"
+      url: "/aag/sessions/"
+      weight: 1
+      post: "See all Geographers for Justice in Palestine-organized AAG sessions"
+      parent: "aag"
+    - identifier: "town-hall"
+      name: "Town Hall"
+      url: "/aag/town-hall/"
       weight: 2
-    - identifier: "faq"
-      name: "FAQs"
-      url: "/faq/"
+      post: "Meet Geographers for Justice in Palestine"
+      parent: "aag"
+    - identifier: "field-trip"
+      name: "Field trip"
+      url: "/aag/field-trip/"
       weight: 3
-    - identifier: "resources"
-      name: "Resources"
-      url: "/resources/"
-      weight: 4
-    # - identifier: "example"
-    #   name: "External"
-    #   url: "https://cncf.io?ref=dot-org"
-    #   weight: 5
+      post: "Palestine in Dearborn: The Heart of Arab-American activism & political action"
+      parent: "aag"
+    - identifier: "preconference"
+      name: "AAG Pre-conference"
+      url: "/preconference/"
+      weight: 2
+    - identifier: "bds-in-aag"
+      name: "Pledge"
+      url: "/pledge/"
+      weight: 3
 es:
   languageName: Spanish
   contentDir: content/es

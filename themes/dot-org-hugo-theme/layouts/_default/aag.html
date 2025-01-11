@@ -1,0 +1,22 @@
+{{ define "main" }}
+
+{{ .Content }}
+
+{{ range .Site.Data.aag2025 }}
+<div class="box">
+    <p class="aag-title green">{{ .subtitle }}:</p>
+    <p class="aag-subtitle">
+        {{ .title }}
+    </p>
+    <p class="abstract">{{ .abstract | markdownify }}</p>
+    <div class="centered">
+        <a target="blank" href="{{ .link }}">
+            <button class="button">
+                View session in AAG portal
+            </button>
+        </a>
+    </div>
+</div>
+{{ end }}
+
+{{ end }}

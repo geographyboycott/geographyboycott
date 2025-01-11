@@ -1,0 +1,16 @@
+
+{{ $file := resources.Get "aag2025.yaml" }} 
+{{ $items := $file | transform.Unmarshal }} 
+
+<div class="list-grid">
+    {{ range $items }}
+    <div class="simple-list">
+        <span class="date top">AAG 2025</span>
+            <a href="{{ .link }}" target="blank" class="item small">{{ .title }}</a>
+                {{ .oragnizers | markdownify}}.
+                {{ .chairs | markdownify }}.
+                </span>
+            </span>
+    </div>
+    {{ end }}
+</div>

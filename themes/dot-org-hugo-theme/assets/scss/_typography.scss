@@ -13,7 +13,7 @@ body {
 }
 
 .title {
-    font-size: 14vw;
+    font-size: 8vw;
     margin-block-start: 70px;
     margin-block-end: 50px;
     @media (min-width: $desktop-width) {
@@ -37,12 +37,12 @@ h1,
 .h1 {
     font-family: var(--condensed-font-family);
     font-weight: 700;
-    color: var(--primary-400);
+    color: var(--pal-green);
     text-transform: uppercase;
     line-height: 112.2%;
     font-size: 44px;
     @media (min-width: $min-desktop) {
-        line-height: 115%;
+        line-height: 100%;
         font-size: 80px;
     }
 }
@@ -51,7 +51,7 @@ h2,
 .h2 {
     font-family: var(--condensed-font-family);
     font-weight: 700;
-    color: var(--primary-400);
+    color: var(--pal-green);
     text-transform: uppercase;
     line-height: 120%;
     font-size: 34px;

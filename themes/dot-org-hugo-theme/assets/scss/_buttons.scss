@@ -38,11 +38,14 @@
 }
 
 .button {
-    margin-top: 30px;
-    margin-bottom: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
     @media (min-width: $min-desktop) {
-        margin-top: 50px;
-        margin-bottom: 50px;
+        margin-top: 25px;
+        margin-bottom: 25px;
+    }
+    &:hover {
+        cursor:pointer;
     }
 }
 

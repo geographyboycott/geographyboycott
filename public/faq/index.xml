@@ -1,1 +1,11 @@
-<rss version="2.0"><channel><title>FAQs on Geography Boycott</title><link>https://geographyboycott.github.io/geographyboycott/faq/</link><description>Recent content in Geography Boycott</description></channel></rss>
+<rss version="2.0">
+    <channel>
+        <title>FAQs on Geography Boycott</title>
+        <link>http://localhost:1313/faq/</link>
+        <description>Recent content in Geography Boycott</description>
+
+         
+            
+        
+    </channel>
+</rss>

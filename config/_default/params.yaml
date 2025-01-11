@@ -13,7 +13,7 @@ images: ["/img/social-share.png"]
 
 github:
   repo_url: "https://github.com/username/repo/blob/master"
-  show_edit_link: true
+  show_edit_link: false
 
 social_links:
   devstats: ""
@@ -38,4 +38,4 @@ social_links:
 # Makes the header sticky on tall screens
 sticky_header: true
 # Enable search in header UI
-show_search: true
+show_search: false

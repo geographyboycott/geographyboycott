@@ -1,13 +1,14 @@
 ---
-title: geography boycott
+title: geographers for justice in palestine
+layout: single
 ---
 
-### >> Geographers for Justice in Palestine stands for safety, justice, equality, and freedom for all people and calls on the US government to stop the imminent genocide of Palestinians. 
+<!-- {{< img src="https://iiif.digitalcommonwealth.org/iiif/2/commonwealth:7h14b116r/522,2057,9314,4281/1200,/0/default.jpg" >}} -->
 
 
-We mourn the many Palestinian and Israeli lives already taken. At this critical moment, we call for the protection of life from further devastating violence. We call on members of the AAA and all scholars to pressure their elected representatives to end Israel's war on Palestinians in Gaza. 
+{{< intro >}}
 
-Israel is currently enacting brutal collective punishment of 2.3 million Palestinians in the occupied and besieged Gaza Strip, cutting off electricity and denying people access to food, drinking water, electricity, fuel, and communication with the world. Israel is bombarding Gaza amidst open calls for war crimes and genocide coming from the Israeli state and military leaders. Lethal violence against Palestinians and ethnic cleansing of Palestinian villages in the West Bank are also escalating. Politicians around the world, including many of our own representatives, are enabling this brutality through statements of unconditional support of Israel and through massive shipments of weapons.
+This is used for the description. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula get dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate get, arcu. In enim justo, rhoncus ut imperdiet a.
+{{< /intro >}}
 
-
-As faculty and students based in North America and Europe, it is imperative that we raise our voices and urge our universities and academic associations to speak out for full Palestinian rights and demand that our governments cease arming Israel and sanctioning its genocidal violence against Palestinians in Gaza. 
+{{< img src="/img/title-background.jpg" caption="'Western Palestine, 1:63,000' (1872-1877), from [PalOpenMaps](https://palopenmaps.org/en/maps?basemap=9&overlay=pal1940&color=status&toggles=places|year)" >}}

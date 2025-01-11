@@ -110,6 +110,7 @@
     }
 
     .copyright {
+        display:none;
         font-size: 11px;
         line-height: 150%;
         letter-spacing: 0.2px;
@@ -123,6 +124,7 @@
             text-decoration: none;
         }
         &__accessibility-git-wrapper {
+            display:none;
             @media (max-width: $mobile-max) {
                 margin-top: 20px;
                 a {

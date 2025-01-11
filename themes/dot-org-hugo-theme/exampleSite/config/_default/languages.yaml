@@ -2,15 +2,15 @@ en:
   languageName: English
   weight: 1
   ### copyright (markdown can be used) ###
-  copyright: "Copyright &copy; {{< current_year >}} Company Name. All Rights Reserved. [Dot Org Theme](https://github.com/cncf/dot-org-hugo-theme) for Hugo by [CNCF](https://www.cncf.io)."
+  # copyright: "Copyright &copy; {{< current_year >}} Company Name. All Rights Reserved. [Dot Org Theme](https://github.com/cncf/dot-org-hugo-theme) for Hugo by [CNCF](https://www.cncf.io)."
   title: "Site Title"
   params:
     description: "Site Description"
     ### accessibility ###
-    accessibility:
-      skip_text: "Skip to content"
-      help_text: "Accessibility Statement"
-      help_url: "/example-page/"
+    # accessibility:
+    #   skip_text: "Skip to content"
+    #   help_text: "Accessibility Statement"
+    #   help_url: "/example-page/"
     ### calls to action ###
     main_cta:
       text: "Join"
@@ -18,7 +18,7 @@ en:
     footer_cta:
       text: "Join us"
       link: "/example-page/"
-    github_edit: "Edit this page on GitHub"
+    # github_edit: "Edit this page on GitHub"
   ### example menu showing children ###
   menu:
     main:
