@@ -1,8 +1,8 @@
-# Geographers for Justice in Palestine
+# GEOGRAPHERS FOR JUSTICE IN PALESTINE
 
 this is the repository for **geographers for justice in palestine**. it's built in [Hugo](https://gohugo.io/documentation/) and forked from the [Dot Org theme](https://github.com/cncf/dot-org-hugo-theme) (see here for an [example site of features in the Dot Org theme](https://dot-org-hugo-theme-demo.netlify.app/faq/)).
 
-#### develop locally
+## DEVELOP LOCALLY
 
 to develop locally:
 
@@ -15,14 +15,14 @@ to develop locally:
 
 IMPORTANT: every time you run `hugo server`, a new CSS file is created in the `public` directory. i'm not sure why this is happening, but to make sure the site stays tidy, always delete the contents of the public CSS folder and then run `hugo build` before you push any changes up to the source
 
-#### build chain
+## BUILD CHAIN
 
 the site builds from the `main` branch, via a custom GitHub action, and deploys at http://geog4pal.org. every time you push a commit to the `main` branch, the site will automatically rebuild. as is standard in Hugo sites, the site deploys from the `public` directory. see below for instructions on:
 
 - [how to stage edits for the site](#staging-updates-to-the-site)
 - [reviewing and approving staged edits](#reviewing-and-approving-staged-edits)
 
-#### staging updates to the site
+## STAGING UPDATES TO THE SITE
 
 when we need to make changes to the site, we will always use the `staging` branch to stage any edits. NEVER commit directly to `main`
 
@@ -37,7 +37,7 @@ to stage edits:
 7. run `hugo build`
 8. if you're ready for your changes to be reviewed, you can commit & push changes to the `staging` branch
 
-#### reviewing and approving staged edits
+## REVIEWING AND APPROVING STAGED EDITS
 
 we will follow a standard [pull request-merge](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/incorporating-changes-from-a-pull-request/merging-a-pull-request) workflow where we get approval from one another before pushing any changes to the site. here's how it will work.
 
@@ -49,6 +49,6 @@ when you are ready to make an edit:
 4. tag somebody to review it
 5. the other person will approve its merge into the `main` branch, which triggers the GitHub action that redeploys the site to production at geog4pal.org
 
-#### todo
+#### TODO
 
 [] fix `npm run build` and `npm run dev`---these are supposed to work! but they don't! and it's got something to do with `css.html`
