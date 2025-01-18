@@ -2,6 +2,7 @@
 .content {
     > * {
         max-width: var(--content-width);
+        // margin-left: auto;
     }
 
     .full-width,

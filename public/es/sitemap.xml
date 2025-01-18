@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/es/categories/</loc>
+    <loc>https://geographyboycott.github.io/geographyboycott/es/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/"
+                href="https://geographyboycott.github.io/geographyboycott/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/categories/"
+                href="https://geographyboycott.github.io/geographyboycott/es/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/es/tags/</loc>
+    <loc>https://geographyboycott.github.io/geographyboycott/es/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/"
+                href="https://geographyboycott.github.io/geographyboycott/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/tags/"
+                href="https://geographyboycott.github.io/geographyboycott/es/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/es/</loc>
+    <loc>https://geographyboycott.github.io/geographyboycott/es/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/"
+                href="https://geographyboycott.github.io/geographyboycott/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://localhost:1313/es/"
+                href="https://geographyboycott.github.io/geographyboycott/es/"
                 />
   </url>
 </urlset>

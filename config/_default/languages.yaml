@@ -3,7 +3,7 @@ en:
   weight: 1
   ### copyright (markdown can be used) ###
   # copyright: "Copyright &copy; {{< current_year >}} Geographers for Justice in Palestine. [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en). [Dot Org Theme](https://github.com/cncf/dot-org-hugo-theme) for Hugo by [CNCF](https://www.cncf.io)."
-  title: "Geography Boycott"
+  title: "Geographers for Justice in Palestine"
   params:
     description: "Geographers for Justice in Palestine"
     ### accessibility ###
@@ -12,12 +12,12 @@ en:
     #   help_text: "Accessibility Statement"
     #   help_url: "/example-page/"
     ### calls to action ###
-    main_cta:
-      text: "Sign up"
-      link: "/pledge/"
-    footer_cta:
-      text: "Join us"
-      link: "/pledge/"
+    # main_cta:
+    #   text: "Get involved"
+    #   link: "/pledge/"
+    # footer_cta:
+    #   text: "Get involved"
+    #   link: "/pledge/"
     # github_edit: "Edit this page on GitHub"
     ### example menu showing children ###
   menu:
@@ -48,10 +48,14 @@ en:
       name: "AAG Pre-conference"
       url: "/preconference/"
       weight: 2
+    - identi fier: "register"
+      name: "Register now"
+      url: "/register/"
+      weight: 2
     - identifier: "bds-in-aag"
       name: "Pledge"
       url: "/pledge/"
-      weight: 3
+      weight: 4
 es:
   languageName: Spanish
   contentDir: content/es

@@ -1,7 +1,8 @@
 ######################## custom scripts & styles ####################
 
 # Add custom assets relative to /static or via https
-# logo_on_white: "/img/logo-b.svg"
+circle: "/img/GJPLogo_Transparent.png"
+flag: "/img/flag.svg"
 # logo_on_black: "/img/logo-w.svg"
 custom_js: []
 custom_css: []
