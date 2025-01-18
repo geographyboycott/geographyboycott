@@ -1,0 +1,21 @@
+<svg version="1.1" viewBox="0.0 0.0 1200.0 1200.0" fill="none" stroke="none" stroke-linecap="square"
+    stroke-miterlimit="10" xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns="http://www.w3.org/2000/svg">
+    <clipPath id="g31c54901bd2_0_64.0">
+        <path d="m0 0l1200.0 0l0 1200.0l-1200.0 0l0 -1200.0z" clip-rule="nonzero" />
+    </clipPath>
+    <g clip-path="url(#g31c54901bd2_0_64.0)">
+        <path fill="#ffffff" d="m0 0l1200.0 0l0 1200.0l-1200.0 0z" fill-rule="evenodd" />
+        <path fill="#000000" fill-opacity="0.0"
+            d="m913.0525 13.992233l282.0105 0l0 269.29657l-282.0105 0z" fill-rule="evenodd" />
+        <g
+            transform="matrix(1.0068306179008457 0.0 0.0 1.0069165689215571 835.3021854675993 -167.3520531409236)">
+            <clipPath id="g31c54901bd2_0_64.1">
+                <path d="m77.22283 180.09862l280.0973 0l0 267.44672l-280.0973 0z"
+                    clip-rule="evenodd" />
+            </clipPath>
+            <image clip-path="url(#g31c54901bd2_0_64.1)" fill="#000" width="426.0" height="640.0"
+                x="0.0" y="0.0" preserveAspectRatio="none" />
+        </g>
+    </g>
+</svg>
