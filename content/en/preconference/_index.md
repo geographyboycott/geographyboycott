@@ -1,5 +1,5 @@
 ---
-title: "pre-aag workshop"
+title: "Pre-AAG Workshop"
 ---
 
 |                                                                       |
@@ -9,7 +9,7 @@ title: "pre-aag workshop"
 
 > This event is organized by [Geographers for Justice in Palestine (GJP)](./) and endorsed by Antipode Foundation, Black Geographies Specialty Group, Cultural Geography Specialty Group, Cultural and Political Ecology Specialty Group, Dimensions of Political Ecology (DOPE), Disability Specialty Group, Energy and Environment Specialty Group, Feminist Geography Specialty Group, Graduate Student Affinity Group, GeoZone, Qualitative Research Specialty Group, Indigenous Peoples Specialty Group, and Socialist and Critical Geography Specialty Group
 
-{{< toc title="taosdf" >}}
+{{< toc >}}
 
 ## Why are we organizing this workshop & what are its goals? 
 

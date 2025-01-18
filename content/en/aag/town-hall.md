@@ -1,5 +1,5 @@
 ---
-title: Town hall
+title: Town Hall
 ---
 
 ## Meet Geographers for Justice in Palestine
