@@ -3,7 +3,9 @@
     {{- partial "head.html" . -}}
     <body class="{{ urlize .Type }} page-{{ .Kind }}">
         {{- partial "accessibility.html" . -}}
-        {{- partial "header.html" . -}}
+        {{ if not .Page.Params.no_footer }}
+            {{- partial "header.html" . -}}
+        {{ end }}
         
         <section id="content" class="container wrap" {{ if .IsPage }}data-pagefind-body{{ end }}>
             {{ if ne .Params.showHeader false }}
@@ -26,6 +28,8 @@
             </article>
             {{ end }}
         </section>
-        {{- partial "footer.html" . -}}
+        {{ if not .Page.Params.no_footer }}
+            {{- partial "footer.html" . -}}
+        {{ end }}
     </body>
 </html>

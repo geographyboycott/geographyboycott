@@ -56,7 +56,6 @@
       "categories",
       "centered",
       "column",
-      "columns",
       "columns-3",
       "container",
       "content",
@@ -119,6 +118,7 @@
     ],
     "ids": [
       "TableOfContents",
+      "coming-soon",
       "content",
       "how-do-i-attend-the-workshop",
       "join",
