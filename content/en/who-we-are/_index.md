@@ -32,3 +32,5 @@ As scholars and members of a professional association, we bear a unique responsi
 > #### Get in touch
 >
 > Questions? Email us at geog4pal [at] gmail [dot] com
+>
+> [Sign up here for GJP emails](https://docs.google.com/forms/d/e/1FAIpQLSfWzG2Hniviluib7nnqc3DI8NFjri9w0SpgCaejcny9USfN2Q/viewform)

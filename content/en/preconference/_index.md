@@ -85,4 +85,4 @@ The workshop is free and open to anyone who fits the above description. It does 
 
 ## Will the workshop be hybrid?
 
-As of right now, there is no hybrid component to the workshop, due mainly to limited organizing and event venue capacity. However, we are in conversation about the organization of a parallel online event for those not able to attend AAG in person this year. Watch this space (GJP website and socials) for forthcoming information about virtual ways to get involved.
+We are working on limited hybrid/virtual access. We will have a separate registration for those who prefer this option at a later date.
