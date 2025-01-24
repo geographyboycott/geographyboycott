@@ -47,7 +47,7 @@ This part of the conference will think about how academic workers can leverage v
 
 The evening portion of the workshop (6-9:30pm) will consist of a plenary focused on the [newly launched academic boycott and divestment campaign within AAG](/pledge), where we will discuss and get organized on next steps (for the 2025 conference and beyond). It will be followed by an Iftar that begins at sundown, a space for us to eat together and get to know one another. Halal food and non-alcoholic beverages will be provided, as will space for prayer for those who would like it. 
  
-The pre-conference workshop seeks to make a space to discuss and analyze the unique organizing challenges and power that come with our position as academic workers. However, while oriented towards academic workers and organizing work that intersects with the academy, it is not a conference. It will not include conference-style presentations on academic research on Palestine. GJP has however organized several sessions at the actual AAG conference that will feature some of the important recent research work happening around Palestine and BDS in the Geography, [you can check those out here](/research).
+The pre-conference workshop seeks to make a space to discuss and analyze the unique organizing challenges and power that come with our position as academic workers. However, while oriented towards academic workers and organizing work that intersects with the academy, it is not a conference. It will not include conference-style presentations on academic research on Palestine. GJP has however organized several sessions at the actual AAG conference that will feature some of the important recent research work happening around Palestine and BDS in the Geography, [you can check those out here](/aag/sessions).
 
 ## Who is the workshop for?
 
@@ -79,7 +79,7 @@ The workshop will be held in a large former-industrial space centrally located i
 
 ## How do I attend the workshop?! 
 
-The workshop is free and open to anyone who fits the above description. It does require registration and that event organizers approve your registration. We have a limited number of spots due to the capacity of the event space, so please only register if you plan on attending. We will close registration when the ~200 spots have been filled. Register using the form linked below:
+The workshop is free and open to anyone who fits the above description. It does require registration and that event organizers approve your registration. We have a limited number of spots due to the capacity of the event space, so please only register if you plan on attending. We will close registration when the spots have been filled. Register using the form linked below:
 
 {{< button link="../register" text="Register now" >}}
 
