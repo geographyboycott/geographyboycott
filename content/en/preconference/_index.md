@@ -1,5 +1,6 @@
 ---
 title: "Pre-AAG Workshop"
+type: faq
 ---
 
 |                                                                       |
@@ -26,25 +27,23 @@ The GFP pre-conference workshop will be composed of workshops (1:30-6pm), an eve
 
 Attendees can pick the workshop sessions they feel are most relevant to their current organizing or areas they would like to learn more about. Workshops will pivot around the themes of research, teaching, and labor, which we understand to be three central areas of academic life where Palestine solidarity work can and needs to be incorporated.
 
-{{< cards count=3 >}} {{< card >}}
-
-**1. Research**
+{{< accordion title="Research" >}}
 
 This aspect of the workshop will look at how we can best leverage our skills as geographic researchers for the Palestine solidarity movement. It will focus on research that is in response to and in the service of boycott and divestment organizing, broadly conceived (as opposed to general academic research, though the two sometimes overlap). This will include workshops that build skills related to how to do this kind of research, as well as sessions that present existing Palestine solidarity action-oriented research work that is happening in/around geography that people can plug into. 
 
-{{< /card >}} {{< card >}}
+{{< /accordion >}}
 
-**2. Teaching**
+{{< accordion title="Teaching" >}}
 
 This area of programming will look specifically at how to incorporate Palestine into geography and related fields’ syllabi (at various levels and across sub disciplinary foci), including by compiling useful teaching materials. It will also make space to workshop strategies for discussing Palestine with students, and for using classroom space to plug students into movement work. 
 
-{{< /card >}} {{< card >}}
+{{< /accordion >}}
 
-**3. Labor**
+{{< accordion title="Labor" >}}
 
 This part of the conference will think about how academic workers can leverage various aspects of our labor power in solidarity with Palestinian liberation and work to cut the ties between our workplaces and the Zionist project. This will include but is not limited to union organizing, as we aim to think about various scales of ‘workplace’ Palestine solidarity organizing. Encampments, direct action, BDS, and anti-repression campaigns (across multiple scales), and intellectual labor in and outside of our campus organizing spaces can all be labor organizing. 
 
-{{< /card >}} {{< /cards >}} {{< spacer 10 >}}
+{{</ accordion >}}
 
 The evening portion of the workshop (6-9:30pm) will consist of a plenary focused on the [newly launched academic boycott and divestment campaign within AAG](/pledge), where we will discuss and get organized on next steps (for the 2025 conference and beyond). It will be followed by an Iftar that begins at sundown, a space for us to eat together and get to know one another. Halal food and non-alcoholic beverages will be provided, as will space for prayer for those who would like it. 
  
@@ -54,25 +53,23 @@ The pre-conference workshop seeks to make a space to discuss and analyze the uni
 
 If you identify with one or more of the following profiles: You are invited to the pre-conference, there will be workshops that are a good fit for you, and we’d love to organize with you!
  
-{{< cards count=3 >}} {{< card >}}
-
-**1. Newcomers to Palestine solidarity work in geography**
+{{< accordion title="Newcomers" >}}
 
 You are a geography faculty or graduate student in solidarity with Palestinian liberation who is looking to get involved or more involved in Palestine solidarity work in Geography, to support the AAG BDS push, and/or to build up skills you can apply to local/campus Palestine solidarity work (which could relate to the research, teaching, or labor aspects of your job).
 
-{{< /card >}} {{< card >}}
+{{< /accordion >}}
 
-**2. Longtime Palestine solidarity organizers in geography**
+{{< accordion title="Geographers" >}}
 
 You are a geography (or geography-adjacent-AAG-attending) faculty or student who has been deeply involved in Palestine solidarity organizing in the academy/your campus and you are looking for a space to make political assessments and think collectively about what’s next, share or sharpen skills, plug people into something you’re involved in, make connections to related Palestine solidarity organizing work happening in Geography, and/or help lead up the AAG BDS push.
 
-{{< /card >}} {{< card >}}
+{{< /accordion >}}
 
-**3. Geography-adjacent Palestine solidarity organizers**
+{{< accordion title="Disciplinary allies" >}}
 
 You are not currently employed by an academic institution, or not in a geography department, or do not have a geography training, but you consider geography (broadly conceived) as at least one of your professional/intellectual homes and are invested in or willing to become invested in disciplinary level organizing in solidarity with Palestine.
 
-{{< /card >}} {{< /cards >}} {{< spacer 10 >}}
+{{< /accordion >}}
 
 ## Where will the workshop be held?
 
@@ -88,5 +85,4 @@ The workshop is free and open to anyone who fits the above description. It does 
 
 ## Will the workshop be hybrid?
 
-As of right now, there is no hybrid component to the workshop, due mainly to limited organizing and event venue capacity. However, we are in conversation about the organization of a parallel online event for those not able to attend AAG in person this year. Watch this space (GJP website and socials) for forthcoming information about virtual ways to get involved. 
-
+As of right now, there is no hybrid component to the workshop, due mainly to limited organizing and event venue capacity. However, we are in conversation about the organization of a parallel online event for those not able to attend AAG in person this year. Watch this space (GJP website and socials) for forthcoming information about virtual ways to get involved.
