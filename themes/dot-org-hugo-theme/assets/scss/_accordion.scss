@@ -6,7 +6,7 @@
 }
 
 .accordion {
-    width: 100%;
+    // width: 100%;
     overflow: hidden;
     border-bottom: 1px solid var(--gray-600);
 
@@ -50,7 +50,7 @@
         opacity: 0;
 
         > * {
-            max-width: var(--content-width);
+            max-width: var(--content-width) !important;
         }
 
         p:first-child {

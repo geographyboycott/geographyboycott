@@ -1,9 +1,9 @@
 ---
 layout: single
-no_footer: true
+# no_footer: true
 ---
 
-### Coming soon
+<!-- ### Coming soon -->
 
 {{< img src="/img/flag.svg" >}}
 
@@ -14,18 +14,18 @@ no_footer: true
 
 {{< intro >}}
 
-<!-- We, as geographers and other AAG members, stand in solidarity with the movement for Palestinian self-determination, liberation, and return. We understand this movement to be aligned with struggles for justice, equality, and decolonization around the world, and thus core to our academic mission. -->
+We are geographers, faculty, students and people of conscience organizing in response to institutional silence and complicity with the Israeli state’s colonial, discriminatory and oppressive policies towards Palestinians.
 
 {{< /intro >}}
 
-<!-- {{< columns count=3 >}}
+{{< columns count=3 >}}
 
-{{< column >}} {{< button link="/pledge" text="Sign the pledge" >}} {{< /column >}}
+{{< column >}} {{< button link="/who-we-are" text="Learn about GJP" >}} {{< /column >}}
 
-{{< column >}} {{< button link="/preconference" text="Learn about GJP" >}} {{< /column >}}
+{{< column >}} {{< button link="/preconference" text="GJP at AAG 2025" >}} {{< /column >}}
 
-{{< column >}} {{< button link="/register" text="Register today" >}} {{< /column >}}
+{{< column >}} {{< button link="/pledge" text="Sign the BDS pledge" >}} {{< /column >}}
 
-{{< /columns >}} -->
+{{< /columns >}}
 
 </div>
