@@ -22,4 +22,19 @@
     {{- partial "head/custom-css.html" . }}
     {{- partial "head/custom-head.html" . }}
     {{- partial "head/sticky-header.html" . }}
+    <!-- Open Graph Meta Tags -->
+    <meta property="og:url" content="{{ .Permalink }}" />
+    <meta property="og:site_name" content="{{ .Site.Title }}" />
+    <meta property="og:title" content="{{ .Title | default .Site.Title }}" />
+    <meta property="og:description" content="{{ .Params.description | default .Site.Params.description }}" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
+    <meta property="og:image" content="{{ with .Params.ogImage }}{{ . | absURL }}{{ else }}{{ .Site.Params.defaultOGImage | absURL }}{{ end }}" />
+
+    <!-- Twitter Card Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="{{ .Title | default .Site.Title }}" />
+    <meta name="twitter:description" content="{{ .Params.description | default .Site.Params.description }}" />
+    <meta name="twitter:image" content="{{ with .Params.twitterImage }}{{ . | absURL }}{{ else }}{{ .Site.Params.defaultTwitterImage | absURL }}{{ end }}" />
+
 </head>
