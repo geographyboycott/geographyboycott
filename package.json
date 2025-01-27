@@ -1,7 +1,7 @@
 {
   "name": "dot-org-hugo-theme",
   "version": "1.0.0",
-  "description": "",
+  "description": "Geographers for Justice in Palestine",
   "main": "none.js",
   "scripts": {
     "build": "hugo --theme=dot-org-hugo-theme --minify",

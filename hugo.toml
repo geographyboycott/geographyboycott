@@ -1,3 +1,8 @@
-baseURL = 'https://geographyboycott.github.io/geographyboycott/'
+baseURL = 'https://geog4pal.org'
 languageCode = 'en-us'
 title = 'Geographers for Justice in Palestine'
+
+[params]
+  description = "Geographers for Justice in Palestine"
+  defaultOGImage = "/img/social-share.png"
+  defaultTwitterImage = "/img/social-share.png"
