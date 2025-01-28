@@ -25,7 +25,7 @@
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="{{ .Title | default .Site.Title }}" />
     <meta name="twitter:description" content="{{ .Params.description | default .Site.Params.description }}" />
-    <meta name="twitter:image" content="{{ with .Params.twitterImage }}{{ . | absURL }}{{ else }}{{ .Site.Params.defaultTwitterImage | absURL }}{{ end }}" />
+    <meta name="twitter:image" content="{{ with .Params.twitterImage }}{{ . | absURL }}{{ else }}{{ .Site.Params.defaultTwitterImage | absURL }}{{ end }}?35627653" />
 
     {{- partial "head/preload.html" . }}
     {{- partial "head/css.html" . }}
