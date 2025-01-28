@@ -2,58 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://geographyboycott.github.io/geographyboycott/</loc>
+    <loc>https://geog4pal.org/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://geographyboycott.github.io/geographyboycott/es/"
+                href="https://geog4pal.org/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://geographyboycott.github.io/geographyboycott/"
+                href="https://geog4pal.org/"
                 />
   </url><url>
-    <loc>https://geographyboycott.github.io/geographyboycott/aag/</loc>
+    <loc>https://geog4pal.org/aag/</loc>
   </url><url>
-    <loc>https://geographyboycott.github.io/geographyboycott/pledge/</loc>
+    <loc>https://geog4pal.org/pledge/</loc>
   </url><url>
-    <loc>https://geographyboycott.github.io/geographyboycott/categories/</loc>
+    <loc>https://geog4pal.org/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://geographyboycott.github.io/geographyboycott/es/categories/"
+                href="https://geog4pal.org/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://geographyboycott.github.io/geographyboycott/categories/"
+                href="https://geog4pal.org/categories/"
                 />
   </url><url>
-    <loc>https://geographyboycott.github.io/geographyboycott/join/</loc>
+    <loc>https://geog4pal.org/join/</loc>
   </url><url>
-    <loc>https://geographyboycott.github.io/geographyboycott/aag/field-trip/</loc>
+    <loc>https://geog4pal.org/aag/field-trip/</loc>
   </url><url>
-    <loc>https://geographyboycott.github.io/geographyboycott/preconference/</loc>
+    <loc>https://geog4pal.org/preconference/</loc>
   </url><url>
-    <loc>https://geographyboycott.github.io/geographyboycott/register/</loc>
+    <loc>https://geog4pal.org/register/</loc>
   </url><url>
-    <loc>https://geographyboycott.github.io/geographyboycott/aag/sessions/</loc>
+    <loc>https://geog4pal.org/aag/sessions/</loc>
   </url><url>
-    <loc>https://geographyboycott.github.io/geographyboycott/tags/</loc>
+    <loc>https://geog4pal.org/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://geographyboycott.github.io/geographyboycott/es/tags/"
+                href="https://geog4pal.org/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://geographyboycott.github.io/geographyboycott/tags/"
+                href="https://geog4pal.org/tags/"
                 />
   </url><url>
-    <loc>https://geographyboycott.github.io/geographyboycott/aag/town-hall/</loc>
+    <loc>https://geog4pal.org/aag/town-hall/</loc>
   </url><url>
-    <loc>https://geographyboycott.github.io/geographyboycott/who-we-are/</loc>
+    <loc>https://geog4pal.org/who-we-are/</loc>
   </url>
 </urlset>
