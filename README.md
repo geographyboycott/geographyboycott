@@ -2,7 +2,27 @@
 
 this is the repository for **geographers for justice in palestine**. it's built in [Hugo](https://gohugo.io/documentation/) and forked from the [Dot Org theme](https://github.com/cncf/dot-org-hugo-theme) (see here for an [example site of features in the Dot Org theme](https://dot-org-hugo-theme-demo.netlify.app/faq/)).
 
-## DEVELOP LOCALLY
+## MAKE EDITS THROUGH THE GITHUB REPOSITORY
+
+changes to site content can be made directly through the github repository. note that in order to do this, you must 1) have a github account and 2) accept the invitation to edit the repository.
+
+to make edits through the repository:
+
+1. make sure you switch to the `staging` branch, rather than the `main` branch, of the `geographyboycott` repository
+2. click into the `content/en` directory
+3. click into a directory that corresponds with the page that you'd like to edit (e.g., `preconference`)
+4. click the `_index.md` file in that directory
+5. click the 'edit' button at the top-right hand corner of the window
+6. make your changes, adhering to [Markdown syntax](https://www.markdownguide.org/cheat-sheet/)
+7. save by clicking the green "Commit changes..." button, including a description of what you edited
+
+NOTE: if you are making edits to the `aag/sessions` page:
+1. instead of clicking into `content/en`, you should click into `data`
+2. then open `aag2025.yaml`
+3. you can edit the content for this page from the YAML file
+4. refer to [this page](https://yaml.org/) for an explainer on the YAML markup language (which is short for "**Y**et **A**nother **M**arkup **L**anguage" 🫠)
+
+## DEVELOP LOCALLY FOR MORE COMPLEX EDITS
 
 to develop locally:
 
