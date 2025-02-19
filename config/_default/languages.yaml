@@ -35,14 +35,20 @@ en:
     - identifier: "town-hall"
       name: "Town Hall"
       url: "/aag/town-hall/"
-      weight: 2
+      weight: 3
       post: "Meet Geographers for Justice in Palestine"
       parent: "aag"
     - identifier: "field-trip"
       name: "Field Trip"
       url: "/aag/field-trip/"
-      weight: 3
+      weight: 4
       post: "Palestine in Dearborn: The Heart of Arab-American activism & political action"
+      parent: "aag"
+    - identifier: "related"
+      name: "Related Sessions"
+      url: "/aag/related-sessions/"
+      weight: 2
+      post: "Related Sessions at AAG 2025"
       parent: "aag"
     - identifier: "pre"
       name: "AAG Pre-conference"
