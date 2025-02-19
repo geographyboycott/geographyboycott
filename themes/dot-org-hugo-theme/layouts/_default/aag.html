@@ -8,6 +8,11 @@
     <p class="aag-subtitle">
         {{ .title }}
     </p>
+    <ul style="margin-left:0.5em;">
+        <li>Date: {{ .date }}</li>
+        <li>Time: {{ .time }}</li>
+        <li>Location: {{ .location }}</li>
+    </ul>
     <p class="abstract">{{ .abstract | markdownify }}</p>
     <div class="centered">
         <a target="blank" href="{{ .link }}">
