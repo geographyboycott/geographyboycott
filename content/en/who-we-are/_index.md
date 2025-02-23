@@ -7,6 +7,18 @@ title: Who We Are
 
 <div style="font-size:1.4em !important;">
 We are geographers, faculty, students and people of conscience organizing in response to institutional silence and complicity with the Israeli state’s colonial, discriminatory and oppressive policies towards Palestinians.
+
+The campaign is coordinated by an organizing collective, whose members include:
+
+Yousuf Al-Bulushi, University of California, Irvine
+Mohammed Rafi Arrefin, University of British Columbia
+Adam Bledsoe, University of Minnesota
+Kai Bosworth, Virginia Commonwealth University
+Deb Cowen, University of Toronto
+Malini Ranganathan, American University
+Ananya Roy, University of California, Los Angeles
+Omar Jabary Salamanca, Université libre de Bruxelles
+Kendra Strauss, Simon Fraser University
  
 We come together in the midst of a genocidal war against Palestinians and in the aftermath of massive protests and repression on university campuses across the globe.
 
