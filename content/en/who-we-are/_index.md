@@ -13,7 +13,6 @@ The campaign is coordinated by an organizing collective, whose members include:
 Yousuf Al-Bulushi, University of California, Irvine
 Mohammed Rafi Arrefin, University of British Columbia
 Adam Bledsoe, University of Minnesota
-Kai Bosworth, Virginia Commonwealth University
 Deb Cowen, University of Toronto
 Malini Ranganathan, American University
 Ananya Roy, University of California, Los Angeles
