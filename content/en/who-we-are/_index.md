@@ -14,7 +14,6 @@ The campaign is coordinated by an organizing collective, whose members include:
 - **Mohammed Rafi Arefin**, University of British Columbia
 - **Adam Bledsoe**, University of Minnesota
 - **Deb Cowen**, University of Toronto
-- **Malini Ranganathan**, American University
 - **Ananya Roy**, University of California, Los Angeles
 - **Omar Jabary Salamanca**, Université libre de Bruxelles
 - **Kendra Strauss**, Simon Fraser University
