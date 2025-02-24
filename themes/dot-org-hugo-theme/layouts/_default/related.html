@@ -3,8 +3,10 @@
 {{ .Content }}
 
 {{ range .Site.Data.related }}
+
 <div class="box">
     <p class="aag-title green">{{ .subtitle }}</p>
+    
     <p class="aag-subtitle">
         {{ .title }}
     </p>
@@ -22,6 +24,7 @@
         </a>
     </div>
 </div>
+
 {{ end }}
 
 {{ end }}
