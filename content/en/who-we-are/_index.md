@@ -16,6 +16,7 @@ The campaign is coordinated by an organizing collective, whose members include:
 - **Deb Cowen**, University of Toronto
 - **Ananya Roy**, University of California, Los Angeles
 - **Omar Jabary Salamanca**, Université libre de Bruxelles
+- **Sara Smith**, University of North Carolina at Chapel Hill
 - **Kendra Strauss**, Simon Fraser University
  
 We come together in the midst of a genocidal war against Palestinians and in the aftermath of massive protests and repression on university campuses across the globe.
