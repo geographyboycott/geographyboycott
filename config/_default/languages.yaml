@@ -61,11 +61,17 @@ en:
       parent: "pre"
       weight: 1
     - identifier: "register"
-      name: "Register now"
+      name: "In-person registration"
       url: "/register/"
       parent: "pre"
-      post: "Register for the pre-conference"
+      post: "In-person registration for the pre-conference"
       weight: 2
+    - identifier: "hybrid-register"
+      name: "Hybrid registration"
+      url: "/hybrid/"
+      parent: "pre"
+      post: "Hybrid registration for the pre-conference"
+      weight: 3
     - identifier: "bds-in-aag"
       name: "BDS Pledge"
       url: "/pledge/"
