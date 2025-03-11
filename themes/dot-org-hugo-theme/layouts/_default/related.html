@@ -2,7 +2,8 @@
 
 {{ .Content }}
 
-{{ range .Site.Data.related }}
+{{- $data := sort .Site.Data.related ".date" ".time" -}}
+{{- range $index, $element := $data -}}
 
 <div class="box">
     <p class="aag-title green">{{ .subtitle }}</p>
@@ -25,6 +26,6 @@
     </div>
 </div>
 
-{{ end }}
+{{- end -}}
 
 {{ end }}
