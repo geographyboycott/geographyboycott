@@ -30,7 +30,7 @@ We are geographers, faculty, students and people of conscience organizing in res
 
 {{< column >}} {{< button style="tertiary" link="/pledge" text="Sign the BDS pledge" >}} {{< /column >}}
 
-{{< column >}} {{< button style="primary" link="/pledge" text="Sign the AAG petition" >}} {{< /column >}}
+{{< column >}} {{< button style="primary" link="/petition" text="Sign the AAG petition" >}} {{< /column >}}
 
 {{< /columns >}}
 
