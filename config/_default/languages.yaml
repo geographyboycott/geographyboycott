@@ -72,14 +72,32 @@ en:
       parent: "pre"
       post: "Hybrid registration for the pre-conference"
       weight: 3
-    - identifier: "bds-in-aag"
+    - identifier: "bds-at-aag"
+      name: "BDS at AAG"
+      url: "/bds-faq/"
+      weight: 5
+    # - identifier: "faq"
+    #   name: "BDS FAQ"
+    #   url: "/faq/"
+    #   weight: 1
+    #   parent: 'bds-at-aag'
+    #   post: "Frequently asked questions about BDS"
+    - identifier: "pledge"
       name: "BDS Pledge"
       url: "/pledge/"
+      weight: 2
+      parent: 'bds-at-aag'
+      post: "Pledge your support"
+    - identifier: "petition"
+      name: "AAG Petition"
+      url: "/petition/"
       weight: 3
+      parent: 'bds-at-aag'
+      post: "Demand that AAG convene a BDS campaign"
     - identifier: "who-we-are"
       name: "Who We Are"
       url: "/who-we-are"
-      weight: 4
+      weight: 6
 es:
   languageName: Spanish
   contentDir: content/es
