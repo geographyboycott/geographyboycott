@@ -18,13 +18,19 @@ We are geographers, faculty, students and people of conscience organizing in res
 
 {{< /intro >}}
 
-{{< columns count=3 >}}
+{{< columns count=2 >}}
 
 {{< column >}} {{< button link="/who-we-are" text="Learn about GJP" >}} {{< /column >}}
 
 {{< column >}} {{< button style="secondary" link="/preconference" text="GJP at AAG 2025" >}} {{< /column >}}
 
+{{< /columns >}}
+
+{{< columns count=2 >}}
+
 {{< column >}} {{< button style="tertiary" link="/pledge" text="Sign the BDS pledge" >}} {{< /column >}}
+
+{{< column >}} {{< button style="primary" link="/pledge" text="Sign the AAG petition" >}} {{< /column >}}
 
 {{< /columns >}}
 
