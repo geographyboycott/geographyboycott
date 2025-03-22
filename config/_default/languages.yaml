@@ -82,18 +82,24 @@ en:
     #   weight: 1
     #   parent: 'bds-at-aag'
     #   post: "Frequently asked questions about BDS"
-    - identifier: "pledge"
-      name: "BDS Pledge"
-      url: "/pledge/"
+    - identifier: "join"
+      name: "Join our campaign"
+      url: "/join/"
       weight: 2
       parent: 'bds-at-aag'
-      post: "Pledge your support"
+      post: "Join the Geographers for Justice in Palestine campaign today"
     - identifier: "petition"
       name: "AAG Petition"
       url: "/petition/"
       weight: 3
       parent: 'bds-at-aag'
-      post: "Demand that AAG convene a BDS campaign"
+      post: "Demand that AAG convene a special meeting"
+    - identifier: "downloads"
+      name: "Downloads"
+      url: "/downloads/"
+      weight: 4
+      parent: 'bds-at-aag'
+      post: "Download GJP materials and resources"
     - identifier: "who-we-are"
       name: "Who We Are"
       url: "/who-we-are"
