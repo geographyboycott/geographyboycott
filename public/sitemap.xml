@@ -1,14 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>https://geog4pal.org/en/sitemap.xml</loc>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://geog4pal.org/es/sitemap.xml</loc>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://geog4pal.org/</loc>
+  </url><url>
+    <loc>https://geog4pal.org/aag/</loc>
+  </url><url>
+    <loc>https://geog4pal.org/join/</loc>
+  </url><url>
+    <loc>https://geog4pal.org/petition/</loc>
+  </url><url>
+    <loc>https://geog4pal.org/categories/</loc>
+  </url><url>
+    <loc>https://geog4pal.org/aag/field-trip/</loc>
+  </url><url>
+    <loc>https://geog4pal.org/downloads/</loc>
+  </url><url>
+    <loc>https://geog4pal.org/endorsements/</loc>
+  </url><url>
+    <loc>https://geog4pal.org/faq/</loc>
+  </url><url>
+    <loc>https://geog4pal.org/hybrid/</loc>
+  </url><url>
+    <loc>https://geog4pal.org/preconference/</loc>
+  </url><url>
+    <loc>https://geog4pal.org/register/</loc>
+  </url><url>
+    <loc>https://geog4pal.org/aag/related-sessions/</loc>
+  </url><url>
+    <loc>https://geog4pal.org/aag/sessions/</loc>
+  </url><url>
+    <loc>https://geog4pal.org/qr/</loc>
+  </url><url>
+    <loc>https://geog4pal.org/tags/</loc>
+  </url><url>
+    <loc>https://geog4pal.org/aag/town-hall/</loc>
+  </url><url>
+    <loc>https://geog4pal.org/who-we-are/</loc>
+  </url>
+</urlset>

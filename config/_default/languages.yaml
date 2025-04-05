@@ -1,132 +1,26 @@
 en:
   languageName: English
   weight: 1
-  ### copyright (markdown can be used) ###
-  # copyright: "Copyright &copy; {{< current_year >}} Geographers for Justice in Palestine. [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en). [Dot Org Theme](https://github.com/cncf/dot-org-hugo-theme) for Hugo by [CNCF](https://www.cncf.io)."
   title: "Geographers for Justice in Palestine"
   params:
     description: "Geographers for Justice in Palestine"
-    ### accessibility ###
-    # accessibility:
-    #   skip_text: "Skip to content"
-    #   help_text: "Accessibility Statement"
-    #   help_url: "/example-page/"
-    ### calls to action ###
     main_cta:
       text: "Get in touch"
       link: "who-we-are#get-in-touch"
     footer_cta:
       text: "Get in touch"
       link: "who-we-are#get-in-touch"
-    # github_edit: "Edit this page on GitHub"
-    ### example menu showing children ###
   menu:
     main:
-    - identifier: "aag"
-      name: "AAG 2025"
-      url: "/aag/"
+    - identifier: "petition"
+      name: "Sign the petition"
+      url: "/petition/"
       weight: 1
-    - identifier: "sessions"
-      name: "Sessions"
-      url: "/aag/sessions/"
-      weight: 1
-      post: "See all Geographers for Justice in Palestine-organized AAG sessions"
-      parent: "aag"
-    - identifier: "town-hall"
-      name: "Town Hall"
-      url: "/aag/town-hall/"
-      weight: 3
-      post: "Meet Geographers for Justice in Palestine"
-      parent: "aag"
-    - identifier: "field-trip"
-      name: "Field Trip"
-      url: "/aag/field-trip/"
-      weight: 4
-      post: "Palestine in Dearborn: The Heart of Arab-American activism & political action"
-      parent: "aag"
-    - identifier: "related"
-      name: "Related Sessions"
-      url: "/aag/related-sessions/"
-      weight: 2
-      post: "Related Sessions at AAG 2025"
-      parent: "aag"
-    - identifier: "pre"
-      name: "AAG Pre-conference"
-      url: "/preconference/"
-      weight: 2
-    - identifier: "preconference"
-      name: "AAG Pre-conference"
-      url: "/preconference"
-      post: "Learn more about the GJP pre-conference at AAG 2025"
-      parent: "pre"
-      weight: 1
-    - identifier: "register"
-      name: "In-person registration"
-      url: "/register/"
-      parent: "pre"
-      post: "In-person registration for the pre-conference"
-      weight: 2
-    - identifier: "hybrid-register"
-      name: "Hybrid registration"
-      url: "/hybrid/"
-      parent: "pre"
-      post: "Hybrid registration for the pre-conference"
-      weight: 3
-    - identifier: "bds-at-aag"
-      name: "BDS at AAG"
-      url: "/bds-faq/"
-      weight: 5
-    # - identifier: "faq"
-    #   name: "BDS FAQ"
-    #   url: "/faq/"
-    #   weight: 1
-    #   parent: 'bds-at-aag'
-    #   post: "Frequently asked questions about BDS"
     - identifier: "join"
       name: "Join our campaign"
       url: "/join/"
       weight: 2
-      parent: 'bds-at-aag'
-      post: "Join the Geographers for Justice in Palestine campaign today"
-    - identifier: "petition"
-      name: "AAG Petition"
-      url: "/petition/"
-      weight: 3
-      parent: 'bds-at-aag'
-      post: "Demand that AAG convene a special meeting"
-    - identifier: "downloads"
-      name: "Downloads"
-      url: "/downloads/"
-      weight: 4
-      parent: 'bds-at-aag'
-      post: "Download GJP materials and resources"
     - identifier: "who-we-are"
-      name: "Who We Are"
+      name: "Who we are"
       url: "/who-we-are"
-      weight: 6
-es:
-  languageName: Spanish
-  contentDir: content/es
-  weight: 2
-  title: "Título del Sitio"
-  params:
-    description: "Descripción del Sitio"
-  menu:
-    main:
-    - identifier: "about"
-      name: "Acerca de"
-      url: "/example-page/"
-      weight: 1
-    - identifier: "child-1"
-      name: "Página Hija de Ejemplo"
-      url: "/example-page/"
-      weight: 1
-      parent: "about"
-    - identifier: "faq"
-      name: "FAQs"
-      url: "/faq/"
       weight: 3
-    - identifier: "blog"
-      name: "Blog"
-      url: "/blog/"
-      weight: 2

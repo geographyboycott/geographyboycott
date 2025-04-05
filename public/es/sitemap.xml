@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://geog4pal.org/es/categories/</loc>
+    <loc>http://localhost:1313/es/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://geog4pal.org/categories/"
+                href="http://localhost:1313/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://geog4pal.org/es/categories/"
+                href="http://localhost:1313/es/categories/"
                 />
   </url><url>
-    <loc>https://geog4pal.org/es/tags/</loc>
+    <loc>http://localhost:1313/es/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://geog4pal.org/tags/"
+                href="http://localhost:1313/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://geog4pal.org/es/tags/"
+                href="http://localhost:1313/es/tags/"
                 />
   </url><url>
-    <loc>https://geog4pal.org/es/</loc>
+    <loc>http://localhost:1313/es/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://geog4pal.org/"
+                href="http://localhost:1313/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://geog4pal.org/es/"
+                href="http://localhost:1313/es/"
                 />
   </url>
 </urlset>

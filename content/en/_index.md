@@ -18,6 +18,8 @@ We are geographers, faculty, students and people of conscience organizing in res
 
 {{< /intro >}}
 
+<div style="text-align:center">
+
 {{< columns count=2 >}}
 
 {{< column >}} {{< button link="/who-we-are" text="Learn about GJP" >}} {{< /column >}}
@@ -33,5 +35,7 @@ We are geographers, faculty, students and people of conscience organizing in res
 {{< column >}} {{< button style="primary" link="/petition" text="Sign the AAG petition" >}} {{< /column >}}
 
 {{< /columns >}}
+
+</div>
 
 </div>
