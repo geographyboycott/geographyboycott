@@ -2,68 +2,68 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://geog4pal.org/</loc>
+    <loc>http://localhost:1313/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://geog4pal.org/es/"
+                href="http://localhost:1313/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://geog4pal.org/"
+                href="http://localhost:1313/"
                 />
   </url><url>
-    <loc>https://geog4pal.org/aag/</loc>
+    <loc>http://localhost:1313/aag/</loc>
   </url><url>
-    <loc>https://geog4pal.org/join/</loc>
+    <loc>http://localhost:1313/join/</loc>
   </url><url>
-    <loc>https://geog4pal.org/petition/</loc>
+    <loc>http://localhost:1313/petition/</loc>
   </url><url>
-    <loc>https://geog4pal.org/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://geog4pal.org/es/categories/"
+                href="http://localhost:1313/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://geog4pal.org/categories/"
+                href="http://localhost:1313/categories/"
                 />
   </url><url>
-    <loc>https://geog4pal.org/aag/field-trip/</loc>
+    <loc>http://localhost:1313/aag/field-trip/</loc>
   </url><url>
-    <loc>https://geog4pal.org/downloads/</loc>
+    <loc>http://localhost:1313/downloads/</loc>
   </url><url>
-    <loc>https://geog4pal.org/faq/</loc>
+    <loc>http://localhost:1313/faq/</loc>
   </url><url>
-    <loc>https://geog4pal.org/hybrid/</loc>
+    <loc>http://localhost:1313/hybrid/</loc>
   </url><url>
-    <loc>https://geog4pal.org/preconference/</loc>
+    <loc>http://localhost:1313/preconference/</loc>
   </url><url>
-    <loc>https://geog4pal.org/register/</loc>
+    <loc>http://localhost:1313/register/</loc>
   </url><url>
-    <loc>https://geog4pal.org/aag/related-sessions/</loc>
+    <loc>http://localhost:1313/aag/related-sessions/</loc>
   </url><url>
-    <loc>https://geog4pal.org/aag/sessions/</loc>
+    <loc>http://localhost:1313/aag/sessions/</loc>
   </url><url>
-    <loc>https://geog4pal.org/qr/</loc>
+    <loc>http://localhost:1313/qr/</loc>
   </url><url>
-    <loc>https://geog4pal.org/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://geog4pal.org/es/tags/"
+                href="http://localhost:1313/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://geog4pal.org/tags/"
+                href="http://localhost:1313/tags/"
                 />
   </url><url>
-    <loc>https://geog4pal.org/aag/town-hall/</loc>
+    <loc>http://localhost:1313/aag/town-hall/</loc>
   </url><url>
-    <loc>https://geog4pal.org/who-we-are/</loc>
+    <loc>http://localhost:1313/who-we-are/</loc>
   </url>
 </urlset>
