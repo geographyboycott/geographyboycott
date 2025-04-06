@@ -10,7 +10,7 @@ layout: single
 {{< spacer 40 >}}
 
 
-<div style="margin:auto;">
+<div style="margin:auto;text-align:center">
 
 {{< intro >}}
 
@@ -18,24 +18,8 @@ We are geographers, faculty, students and people of conscience organizing in res
 
 {{< /intro >}}
 
-<div style="text-align:center">
+{{< column >}} {{< button style="secondary" link="/who-we-are" text="Learn about GJP" >}} {{< /column >}}
 
-{{< columns count=2 >}}
-
-{{< column >}} {{< button link="/who-we-are" text="Learn about GJP" >}} {{< /column >}}
-
-{{< column >}} {{< button style="secondary" link="/preconference" text="GJP at AAG 2025" >}} {{< /column >}}
-
-{{< /columns >}}
-
-{{< columns count=2 >}}
-
-{{< column >}} {{< button style="tertiary" link="/pledge" text="Sign the BDS pledge" >}} {{< /column >}}
-
-{{< column >}} {{< button style="primary" link="/petition" text="Sign the AAG petition" >}} {{< /column >}}
-
-{{< /columns >}}
-
-</div>
+{{< column >}} {{< button style="tertiary" link="/petition" text="Sign the AAG petition" >}} {{< /column >}}
 
 </div>
