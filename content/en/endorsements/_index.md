@@ -3,15 +3,13 @@ title: Endorsements
 type: faq
 ---
 
-## Endorsements
+## Words of support from geographical organizations
 
 {{< intro >}}
 
-Words of support from geographical organizations
+Many specialty groups and other geographical collectives have leant their words of support to this campaign. Below you can find some of their singular reasons for doing so, which together demonstrate the powerful and cross-cutting relevance of Palestinian liberation to the field of geography. 
 
 {{</ intro >}}
-
-Many specialty groups and other geographical collectives have leant their words of support to this campaign. Below you can find some of their singular reasons for doing so, which together demonstrate the powerful and cross-cutting relevance of Palestinian liberation to the field of geography. 
 
 {{< accordion title="The Antipode Editorial Collective" >}}
 

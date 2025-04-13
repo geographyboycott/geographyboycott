@@ -24,3 +24,7 @@ en:
       name: "Who we are"
       url: "/who-we-are"
       weight: 3
+    - identifier: "endorsements"
+      name: "Endorsements"
+      url: "/endorsements"
+      weight: 4
