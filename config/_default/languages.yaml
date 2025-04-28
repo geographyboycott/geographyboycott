@@ -28,3 +28,7 @@ en:
       name: "Endorsements"
       url: "/endorsements"
       weight: 4
+    - identifier: "readings"
+      name: "Readings"
+      url: "/readings"
+      weight: 5

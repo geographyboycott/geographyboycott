@@ -2,40 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://geog4pal.org/</loc>
   </url><url>
-    <loc>http://localhost:1313/aag/</loc>
+    <loc>https://geog4pal.org/aag/</loc>
   </url><url>
-    <loc>http://localhost:1313/join/</loc>
+    <loc>https://geog4pal.org/join/</loc>
   </url><url>
-    <loc>http://localhost:1313/petition/</loc>
+    <loc>https://geog4pal.org/petition/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://geog4pal.org/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/aag/field-trip/</loc>
+    <loc>https://geog4pal.org/aag/field-trip/</loc>
   </url><url>
-    <loc>http://localhost:1313/downloads/</loc>
+    <loc>https://geog4pal.org/downloads/</loc>
   </url><url>
-    <loc>http://localhost:1313/endorsements/</loc>
+    <loc>https://geog4pal.org/endorsements/</loc>
   </url><url>
-    <loc>http://localhost:1313/faq/</loc>
+    <loc>https://geog4pal.org/faq/</loc>
   </url><url>
-    <loc>http://localhost:1313/hybrid/</loc>
+    <loc>https://geog4pal.org/hybrid/</loc>
   </url><url>
-    <loc>http://localhost:1313/preconference/</loc>
+    <loc>https://geog4pal.org/preconference/</loc>
   </url><url>
-    <loc>http://localhost:1313/register/</loc>
+    <loc>https://geog4pal.org/readings/</loc>
   </url><url>
-    <loc>http://localhost:1313/aag/related-sessions/</loc>
+    <loc>https://geog4pal.org/register/</loc>
   </url><url>
-    <loc>http://localhost:1313/aag/sessions/</loc>
+    <loc>https://geog4pal.org/aag/related-sessions/</loc>
   </url><url>
-    <loc>http://localhost:1313/qr/</loc>
+    <loc>https://geog4pal.org/aag/sessions/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://geog4pal.org/qr/</loc>
   </url><url>
-    <loc>http://localhost:1313/aag/town-hall/</loc>
+    <loc>https://geog4pal.org/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/who-we-are/</loc>
+    <loc>https://geog4pal.org/aag/town-hall/</loc>
+  </url><url>
+    <loc>https://geog4pal.org/who-we-are/</loc>
   </url>
 </urlset>

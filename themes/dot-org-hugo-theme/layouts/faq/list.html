@@ -1,5 +1,5 @@
 {{ define "main" }}
-{{ .Content }}
+{{ .Content | markdownify }}
 <div class="accordions">
     {{ range .Pages }}
     <div class="faq-item accordion">
@@ -16,7 +16,7 @@
             </svg>
         </div>
         <div class="faq__content accordion__content">
-            {{ .Content }}
+            {{ .Content | markdownify }}
         </div>
     </div>
     {{ end }}
