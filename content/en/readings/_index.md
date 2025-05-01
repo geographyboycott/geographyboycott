@@ -9,17 +9,19 @@ Below we have compiled some of the most relevant scholarly literature about Pale
 
 {{</ intro >}}
 
-{{< accordion title="Space and Politics" >}}
+{{< accordion title="Teaching Materials" >}}
 
 [Palestine: Spaces and Politics](https://palestine.araburbanism.com/) 
 
+[Teaching on Palestine: Resources for geographical education](https://storymaps.arcgis.com/collections/8a004fa3a25b45a48155252f17f8a21b)
+
 {{< /accordion >}}
 
-The University
+{{< accordion title=The University >}}
 
 [Palestinian Liberation and Zionist Ideology at the Western University](https://read.dukeupress.edu/south-atlantic-quarterly/article/124/2/399/393162/Palestinian-Liberation-and-Zionist-Ideology-at-the?searchresult=1)
 
-The Campus Encampments
+{{< accordion title=The Campus Encampments >}}
 
 [The Camp and the Encampment](https://read.dukeupress.edu/south-atlantic-quarterly/article/124/2/424/393161/The-Camp-and-the-Encampment-Reflections-on)
 
@@ -27,21 +29,21 @@ The Campus Encampments
 
 [Palestine Activism at Ghent University: Experiences from the Refaat Alareer Encampment](https://read.dukeupress.edu/south-atlantic-quarterly/article/124/2/434/393163/Palestine-Activism-at-Ghent-University-Experiences?searchresult=1)
 
-Boycott, Divestment, and Sanctions
+{{< accordion title=Boycott, Divestment, and Sanctions >}}
 
-[We Shouldn\'t Fear Being Divisive in the Pursuit of Justice](https://www.thenation.com/article/activism/bds-divisiveness-ethics/)
+[We Shouldn't Fear Being Divisive in the Pursuit of Justice](https://www.thenation.com/article/activism/bds-divisiveness-ethics/)
 
 [Before BDS: Lineages of Boycott in Palestine](https://watermark.silverchair.com/58takriti.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA-gwggPkBgkqhkiG9w0BBwagggPVMIID0QIBADCCA8oGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMsQlRxD0wAG6clXR6AgEQgIIDm14kMGL_6DB6wMOVL0f3b1_HtZaRaogLWCGk0iBfpC2FFdANwn9davoLMA65iZ2rC1P0R9NgGfe7l-QfBbs5ZT-wQY6MCY6ZYzs74efD2DK-nVyDp0u-zN3xCrINNZa5HmnK0YlnzMP0WIRwSDUePY4r9SYK_4aoizSTWBquwxyTD5r6TIlBHPMmUMziWWwK7r9zID6D005BG91pzS4P0dJ7K6BTqMWCbOyl6n83Kc6ygMJXDxWLWnwmTxucKbum7u5uWD0pbChUeUnPhp0oHjLcABNxoLQCIPGHEqJ_ssQ5gOLIyTaWVwcR5eLDsllHUapRVYEFWfnpaF3mH0poEf2VxZjwllVi917kLogKIYByfJZ1lFDf6LZNykhBVAR66cn3lPlLrOP4PQk5nFUWAQ-TBtj4yy6HSMlxC4MqWtWf6yx3rYA6mD8kgO7nvZqPY_SAbUUXXXuiVAnikfZonUHY50-9m76p-GoRmEDQl3Hqp1t4b7woUL6c6E8Pe-H1mTYgNltbnbLLT9Hm1gaYJHjnF_qzbeSmloSApVh7ess7lbyLj1E5u4HnQ2kZZmAhMYTYzsSHm5cpf5aacRifGqa9EzM5Qhi4kTpij-hZL-wnRcvpeGQ_r0F_U7SslgkIyJICxLQwXyn3pwJigajSwyDthRsZ7KHS3oswOgprvPulHDA7dTp_m65akA_kjJL4J8NHS0jciUWtQFFRxckbOlJcD8ppG4Z-834z2zrklyVx8KAJrmnblvLPEfx629AmsD7IkwggbZKixSM5-h09RXbcujVLSz_v58CZv0h2SGNAlNSBEpfdTlcSVP13ImTrFLR6TWW5fBr2ztlmyMt-e4rPokqdcq2M5ccjpZ8aHwqxKYADfAERt9q075ygjQUA3n7y_DwwLUA9dAcvMRmxFMSNbnpdUJKVBlbrI8nLKqOWyQO-TculOYHRVRWvVhkfSSTGYvHOzLhNtK-dinhgmvvW2D94UOKXrcKNDW_os5PoI98hvt776pShYFhcN4GXmywH43lt1m9DNlMxpMGbExtbYBWwqZqBYu5RV_iDcjFjhMK1jne-DAGHnX_0-ESIqcGPtJNpq_XHvGspihzxSCEjXfXqit0smHwfsS1ImjaY5s2CzPbiP1nssGVWE2wCpoH-2dsHenlg0aaoRPNr0p1sQ30bp3RBWas9vhMey4RZXwhcqw3zOMfcG1yanAsXMD5MUvrIpK6TkAZ4)
 
 [Political Imaginaries of Solidarity: BDS in Toronto](https://www.tandfonline.com/doi/full/10.1080/14742837.2024.2321132?casa_token=We_QC3a-VK4AAAAA%3Av2nwNoh4htTt_JVvcWK_U_kgM_GItw-TZ2_dLqA7IyJQLwV-9jIR082_IdxYoOsD4Pqnu-CvyFYJ#abstract)
 
-Colonialism & Decolonization
+{{< accordion title=Colonialism & Decolonization >}}
 
 [Gaza: A Decolonial Geography](https://rgs-ibg.onlinelibrary.wiley.com/doi/full/10.1111/tran.12675?casa_token=SAVLAc_C6QsAAAAA%3AGRyml5zFkvXVnnwX95oWleKNETyoVLMMh23s4NrYcRVhvA035bf4kwe5-jPeXPFIFzclSrYn02-_Dvg)
 
 [Palestine and the 'War on Terror](https://muse.jhu.edu/article/181207/pdf)'
 
-Settler Colonialism
+{{< accordion title=Settler Colonialism >}}
 
 [Gaza: Indigenous Urbanism Amid Elimination](https://muse.jhu.edu/pub/23/article/957108/pdf?casa_token=eaw884xEM4UAAAAA:maQtQyGKpMfd43qHYG7xIK6_sH48buSZ3OPV60bOPLD2cwdGohiXE90oU7grr9M4lW-tICW5uQ)
 
@@ -49,19 +51,19 @@ Settler Colonialism
 
 [Solidarity with Palestine from Diné Bikéyah](https://www.jstor.org/stable/43822934?seq=1)
 
-Cartography
+{{< accordion title=Cartography >}}
 
 [Mapping and Countermapping Dispossession in Palestine](https://rgs-ibg.onlinelibrary.wiley.com/doi/full/10.1111/tran.12708)
 
-Political Ecology & Geopolitics
+{{< accordion title=Political Ecology & Geopolitics >}}
 
 [Framing Palestine: Israel, the Gulf States, and American Power in the Middle East](https://www.tni.org/en/article/framing-palestine)
 
-Global Context
+{{< accordion title=Global Context >}}
 
-[Israel\'s War on Gaza in a Global Frame](https://onlinelibrary.wiley.com/doi/full/10.1111/anti.13094)
+[Israel's War on Gaza in a Global Frame](https://onlinelibrary.wiley.com/doi/full/10.1111/anti.13094)
 
-Terrorism
+{{< accordion title=Terrorism >}}
 
 [No Human Being Can Exist](https://www.nplusonemag.com/online-only/online-only/no-human-being-can-exist/)
 
