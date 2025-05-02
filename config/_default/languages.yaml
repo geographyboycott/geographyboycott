@@ -12,19 +12,28 @@ en:
       link: "who-we-are#get-in-touch"
   menu:
     main:
+    - identifier: "aag"
+      name: "AAG Campaign"
+      weight: 1
     - identifier: "petition"
       name: "Sign the petition"
       url: "/petition/"
       weight: 1
+      parent: "aag"
     - identifier: "join"
       name: "Join our campaign"
       url: "/join/"
       weight: 2
+      parent: "aag"
     - identifier: "who-we-are"
       name: "Who we are"
       url: "/who-we-are"
-      weight: 3
+      weight: 2
     - identifier: "endorsements"
       name: "Endorsements"
       url: "/endorsements"
+      weight: 3
+    - identifier: "readings"
+      name: "Readings"
+      url: "/readings"
       weight: 4
