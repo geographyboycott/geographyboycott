@@ -17,11 +17,13 @@ Below we have compiled some of the most relevant scholarly literature about Pale
 
 {{< /accordion >}}
 
-{{< accordion title=The University >}}
+{{< accordion title="The University" >}}
 
 [Palestinian Liberation and Zionist Ideology at the Western University](https://read.dukeupress.edu/south-atlantic-quarterly/article/124/2/399/393162/Palestinian-Liberation-and-Zionist-Ideology-at-the?searchresult=1)
 
-{{< accordion title=The Campus Encampments >}}
+{{< /accordion >}}
+
+{{< accordion title="The Campus Encampments" >}}
 
 [The Camp and the Encampment](https://read.dukeupress.edu/south-atlantic-quarterly/article/124/2/424/393161/The-Camp-and-the-Encampment-Reflections-on)
 
@@ -29,7 +31,9 @@ Below we have compiled some of the most relevant scholarly literature about Pale
 
 [Palestine Activism at Ghent University: Experiences from the Refaat Alareer Encampment](https://read.dukeupress.edu/south-atlantic-quarterly/article/124/2/434/393163/Palestine-Activism-at-Ghent-University-Experiences?searchresult=1)
 
-{{< accordion title=Boycott, Divestment, and Sanctions >}}
+{{< /accordion >}}
+
+{{< accordion title="Boycott, Divestment, and Sanctions" >}}
 
 [We Shouldn't Fear Being Divisive in the Pursuit of Justice](https://www.thenation.com/article/activism/bds-divisiveness-ethics/)
 
@@ -37,13 +41,17 @@ Below we have compiled some of the most relevant scholarly literature about Pale
 
 [Political Imaginaries of Solidarity: BDS in Toronto](https://www.tandfonline.com/doi/full/10.1080/14742837.2024.2321132?casa_token=We_QC3a-VK4AAAAA%3Av2nwNoh4htTt_JVvcWK_U_kgM_GItw-TZ2_dLqA7IyJQLwV-9jIR082_IdxYoOsD4Pqnu-CvyFYJ#abstract)
 
-{{< accordion title=Colonialism & Decolonization >}}
+{{< /accordion >}}
+
+{{< accordion title="Colonialism & Decolonization" >}}
 
 [Gaza: A Decolonial Geography](https://rgs-ibg.onlinelibrary.wiley.com/doi/full/10.1111/tran.12675?casa_token=SAVLAc_C6QsAAAAA%3AGRyml5zFkvXVnnwX95oWleKNETyoVLMMh23s4NrYcRVhvA035bf4kwe5-jPeXPFIFzclSrYn02-_Dvg)
 
 [Palestine and the 'War on Terror](https://muse.jhu.edu/article/181207/pdf)'
 
-{{< accordion title=Settler Colonialism >}}
+{{< /accordion >}}
+
+{{< accordion title="Settler Colonialism" >}}
 
 [Gaza: Indigenous Urbanism Amid Elimination](https://muse.jhu.edu/pub/23/article/957108/pdf?casa_token=eaw884xEM4UAAAAA:maQtQyGKpMfd43qHYG7xIK6_sH48buSZ3OPV60bOPLD2cwdGohiXE90oU7grr9M4lW-tICW5uQ)
 
@@ -51,22 +59,32 @@ Below we have compiled some of the most relevant scholarly literature about Pale
 
 [Solidarity with Palestine from Diné Bikéyah](https://www.jstor.org/stable/43822934?seq=1)
 
-{{< accordion title=Cartography >}}
+{{< /accordion >}}
+
+{{< accordion title="Cartography" >}}
 
 [Mapping and Countermapping Dispossession in Palestine](https://rgs-ibg.onlinelibrary.wiley.com/doi/full/10.1111/tran.12708)
 
-{{< accordion title=Political Ecology & Geopolitics >}}
+{{< /accordion >}}
+
+{{< accordion title="Political Ecology & Geopolitics" >}}
 
 [Framing Palestine: Israel, the Gulf States, and American Power in the Middle East](https://www.tni.org/en/article/framing-palestine)
 
-{{< accordion title=Global Context >}}
+{{< /accordion >}}
+
+{{< accordion title="Global Context" >}}
 
 [Israel's War on Gaza in a Global Frame](https://onlinelibrary.wiley.com/doi/full/10.1111/anti.13094)
 
-{{< accordion title=Terrorism >}}
+{{< /accordion >}}
+
+{{< accordion title="Terrorism" >}}
 
 [No Human Being Can Exist](https://www.nplusonemag.com/online-only/online-only/no-human-being-can-exist/)
 
 [Thinking about Terrorism and Just War](https://www.tandfonline.com/doi/full/10.1080/09557570902956580)
 
 [The Essential Terrorist](https://www.jstor.org/stable/41857908?casa_token=Wn2_8T0tH04AAAAA%3AY0jAERb0mLWgCjwIThRwZ5rgXCMPk2tKlCay0HDsbmPpgZ0KwZjomdTYpa6ycFklQHoJoULHBwlgFq5dcxd5MB3YSrWbAi5PdxV1W19EH-9gwma5Soc&seq=1)
+
+{{< /accordion >}}
