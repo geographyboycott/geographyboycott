@@ -4,16 +4,34 @@ en:
   title: "Geographers for Justice in Palestine"
   params:
     description: "Geographers for Justice in Palestine"
-    main_cta:
-      text: "Get in touch"
-      link: "who-we-are#get-in-touch"
+    # main_cta:
+    #   text: "Get in touch"
+    #   link: "who-we-are#get-in-touch"
     footer_cta:
       text: "Get in touch"
       link: "who-we-are#get-in-touch"
   menu:
     main:
+    - identifier: "faq"
+      name: "FAQ"
+      weight: 1
+    - identifier: "boycott"
+      name: "The academic boycott of Israel"
+      weight: 1
+      url: "/boycott"
+      parent: "faq"
+    - identifier: "bds-and-aag"
+      name: "BDS and the AAG"
+      weight: 2
+      url: "/bds-and-aag"
+      parent: "faq"
+    - identifier: "addressing-concerns"
+      name: "Addressing concerns"
+      weight: 3
+      url: "/addressing-concerns"
+      parent: "faq"
     - identifier: "aag"
-      name: "AAG Campaign"
+      name: "AAG"
       weight: 1
     - identifier: "petition"
       name: "Sign the petition"
