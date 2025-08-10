@@ -12,24 +12,24 @@ en:
       link: "who-we-are#get-in-touch"
   menu:
     main:
-    - identifier: "faq"
-      name: "FAQ"
-      weight: 1
-    - identifier: "boycott"
-      name: "The academic boycott of Israel"
-      weight: 1
-      url: "/boycott"
-      parent: "faq"
-    - identifier: "bds-and-aag"
-      name: "BDS and the AAG"
-      weight: 2
-      url: "/bds-and-aag"
-      parent: "faq"
-    - identifier: "addressing-concerns"
-      name: "Addressing concerns"
-      weight: 3
-      url: "/addressing-concerns"
-      parent: "faq"
+    # - identifier: "faq"
+    #   name: "FAQ"
+    #   weight: 1
+    # - identifier: "boycott"
+    #   name: "The academic boycott of Israel"
+    #   weight: 1
+    #   url: "/boycott"
+    #   parent: "faq"
+    # - identifier: "bds-and-aag"
+    #   name: "BDS and the AAG"
+    #   weight: 2
+    #   url: "/bds-and-aag"
+    #   parent: "faq"
+    # - identifier: "addressing-concerns"
+    #   name: "Addressing concerns"
+    #   weight: 3
+    #   url: "/addressing-concerns"
+    #   parent: "faq"
     - identifier: "aag"
       name: "AAG"
       weight: 1
