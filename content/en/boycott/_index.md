@@ -11,12 +11,6 @@ The Palestinian Campaign for the Academic and Cultural Boycott of Israel (PACBI)
 
 {{< /accordion >}}
 
-{{< accordion title="Who is included in an academic boycott of Israel?" >}}
-
-The academic boycott is a boycott of Israeli institutions, not individuals. The BDS movement rejects boycotting individuals on the basis of their identity and does not call for a boycott of individual Israeli academics simply because of their affiliation to a complicit university. For an institution like the AAG and its members, a boycott would be directed towards *institutional partnerships*.
-
-{{< /accordion >}}
-
 {{< accordion title="How have geographers, geography departments, and geographic thought been affected by Israel?" >}}
 
 The Israeli assault on Gaza has completely demolished normal university life, to the point that UN experts have [described](https://www.ohchr.org/en/press-releases/2024/04/un-experts-deeply-concerned-over-scholasticide-gaza) a "pattern of attacks on schools, universities, teachers, and students in the Gaza Strip" constitutes "scholasticide." Such attempted scholasticide names "the systemic obliteration of education through the arrest, detention or killing of teachers, students and staff, and the destruction of educational infrastructure." Israel has destroyed Gaza's twelve universities, several of which had geography programs, including [Alaqsa University](https://alaqsa.edu.ps/en/page/5945/Alaqsa-University-Gaza-Faculty-of-Arts-&-Human-Sciences-Geography-Course-Description), [Al Azhar University](https://www.alazhar.edu.ps/eng/UnderGr/Arts/Geography/dep.asp), and [the Islamic University of Gaza](https://arts.iugaza.edu.ps/%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d8%a7%d8%aa-%d8%a7%d9%84%d8%b9%d9%84%d9%8a%d8%a7/%d8%af%d8%b1%d8%ac%d8%a9-%d8%a7%d9%84%d9%85%d8%a7%d8%ac%d8%b3%d8%aa%d9%8a%d8%b1/%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac-%d9%85%d8%a7%d8%ac%d8%b3%d8%aa%d9%8a%d8%b1-%d8%a7%d9%84%d8%ac%d8%ba%d8%b1%d8%a7%d9%81%d9%8a%d8%a7/%d9%86%d8%a8%d8%b0%d8%a9-%d8%aa%d8%b9%d8%b1%d9%8a%d9%81%d9%8a%d8%a9). Crucial geographical knowledge about the occupation now cannot be gathered and shared, though Palestinians in Gaza have against all odds found ways to sustain a modicum of university life, for instance through virtual teaching and learning. While the scale and pattern of attacks is unprecedented, it is important to remember that Israel's systematic assault, obstruction and destruction of Palestinian spaces and sites of knowledge and learning have been ongoing.

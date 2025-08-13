@@ -20,6 +20,28 @@ In his inaugural 1969 editorial for Antipode, David Stea argued: "A society whic
 
 {{< /accordion >}}
 
+{{< accordion title="Black Geographies Specialty Group" >}}
+
+The Black Geographies Specialty Group condemns the Israeli war on Palestinian peoples, settler colonial violence of Israeli apartheid, Israel’s perpetuation of the genocide of Palestinians, and the United States’ uninterrupted financial and political support for Israel. We continue to mourn the hundreds of thousands of Palestinian people murdered within the past fifteen months and the Palestinian livelihoods devastated by unscrupulous imperialist and settler colonial tactics since 1917. We also celebrate, learn from, and stand in solidarity with Palestinian thinkers, artists, scholars, land stewards, guides, healers, leaders, and resistors in Palestine and throughout the diaspora. At this pivotal moment, we urge geographers to amplify rather than relax their commitments to the Palestinian liberation movement. 
+<br><br>
+Palestinian liberation encompasses an expansive history of struggle and resistance. For over 73 years, the Palestinian people have resisted zionist violence and terror. Most recently, since October 2023, armed and abetted by the United States, Israeli forces have targeted the Palestinian people through war, genocide, settler colonialism, and continued apartheid.  In the wake of these horrors, It is imperative to understand that Zionism is, fundamentally, a settler ideology that is entangled with white supremacy, colonization, and racial capitalism both within and beyond the territory of Occupied Palestine. It must be recognized as such and condemned in our liberation efforts. 
+<br><br>
+While the violence in Palestine touches all of us in different ways based on our identities and experiences, we are all complicit in the Israeli colonial project through the entangled histories of our discipline and by virtue of being taxpayers in the United States. We refuse to remain silent as our nation-state, discipline, and workplaces sustain zionist violence and terror against our Palestinian colleagues and comrades. 
+<br><br>
+In solidarity with the resistance of Palestinians and the response of mass protest around the world, Geographers have an intellectual duty to oppose the Palestinian genocide in our capacity as scholars, educators, and researchers, regardless of sub-field. From basing cartographic practices on the concept of terra nullius to embedding white supremacist classifications into the machine learning systems that power GIS technologies, settler colonial logics have found too comfortable a home in our discipline. Geographers must consistently and unflinchingly challenge these uses in their work and practice alternative methods imbued with justice. While this work is exceedingly condemned by anti-intellectual and anti-democratic movements and proponents of Palestinian liberation continue to be the targets of political repression, concession is not and can never be an option. This moment holds the potential for transformative social change. 
+<br><br>
+Black academic and activist lineage on this matter goes back at least to to Malcolm X’s of “Zionist Logic” in 1964, to the Israeli occupation of Palestine in 1967 and the Black Power activists who stood by the Palestine Liberation Organization, and to the Third World non-aligned movements that fostered anticolonial and anticapitalist development throughout the Cold War. More recently in 2014, when Palestinians in Gaza were being killed by the thousands, and when Black people like Michael Brown in Ferguson, Missouri were being killed indiscriminately by U.S. police, Black and Palestinian activists found very little difference between these violent demonstrations of U.S. racial imperialism. As Black Geographers critical of colonial, racial capitalist, and state violence, our pursuits for Black liberation are necessarily bound to the liberation of racialized, dehumanized, and brutalized peoples of the world. Our studies of Blackness transgress nation-state boundaries, categories of the Human, and insist on forging pathways of solidarity as worldmaking.
+<br><br>
+Our universities have also historically been sites for organizing to divest capital from apartheid regimes. In 1988, following the lead of labor organizers decades earlier, 155 U.S. colleges had divested at least part of their portfolios from South African companies. Today dozens of FSJP organizers are drawing on this legacy of Black radical solidarity to advocate for boycott and divestment from the financial machines of Israeli state power. We ask that our colleagues support in whatever ways that they can and urge our colleagues to mobilize for profound transformations of our discipline and our institutions of higher learning. 
+<br><br>
+Within and beyond the academy, we must all acknowledge, honor, and continue the work of liberation struggles for all and to collectively build worlds of radical transformation and racial justice.
+<br><br>
+Signed,
+The Black Geographies Specialty Group Executive Committee
+<br><br>
+More sources and information is available on the Black Geographies Specialty Group website <a href="https://blackgeographies.org/in-solidarity/2/">here.</a>
+{{< /accordion >}}
+
 {{< accordion title="Disability Specialty Group" >}}
 
 The Disability Specialty Group has endorsed the BDS pledge to boycott Israeli academic institutions. This commitment builds on our endorsement of the Geographers for Justice in Palestine AAG 2025 pre-conference. 
