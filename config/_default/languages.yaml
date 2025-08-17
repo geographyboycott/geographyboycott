@@ -30,12 +30,12 @@ en:
       parent: "faq"
     - identifier: "bds-and-aag"
       name: "BDS and the AAG"
-      weight: 1
+      weight: 2
       url: "/bds-and-aag"
       parent: "faq"
     - identifier: "addressing-concerns"
       name: "Addressing concerns"
-      weight: 1
+      weight: 3
       url: "/addressing-concerns"
       parent: "faq"
     - identifier: "endorsements"
