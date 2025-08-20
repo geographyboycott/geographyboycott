@@ -47,7 +47,7 @@ There are at least four important arenas of concern in which geographic practice
 
 4.  Urban planning as practiced by academics and policymakers is an active tool of Israeli settler colonialism. This includes the [Bauhaus architecture and urban planning](https://www.plutobooks.com/9780745350936/white-city-black-city/) of Tel Aviv developed as a tool to [expropriate Palestinian land](https://www.ucpress.edu/books/overthrowing-geography/paper) from Jaffaites and surrounding villages to the ["urban planning"](https://www.grassrootsalquds.net/post/urban-planning-roads-transportation) of Jerusalem which during and since the Nakba has expanded Israeli control while preventing [Palestinian development](http://journals.sagepub.com/doi/10.1177/2514848620943877).
 
-As described below, these kinds of actions do not accord with the AAG's Statement of Professional Ethics.
+As described at our "BDS and the AAG" page, these kinds of actions do not accord with the AAG's Statement of Professional Ethics.
 
 {{< /accordion >}}
 
