@@ -23,6 +23,6 @@ It is in this spirit that we stand firm in our belief that ethical principles mu
 
 > #### Get in touch
 >
-> Questions? Email us at geog4pal [at] gmail [dot] com
+> Questions? Email us at geog4pal [at] proton [dot] me
 >
 > [Sign up here for GJP emails](https://docs.google.com/forms/d/e/1FAIpQLSfWzG2Hniviluib7nnqc3DI8NFjri9w0SpgCaejcny9USfN2Q/viewform)

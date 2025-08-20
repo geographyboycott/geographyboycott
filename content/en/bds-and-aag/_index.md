@@ -33,7 +33,7 @@ Third, the AAG Statement of Professional Ethics calls for geographers to "Abstai
 
 AAG bylaws stipulate that members can propose topics for discussion and call meetings. The first step is circulation of a petition to the membership to call for a special meeting, which must garner signatures of at least 10% of the active membership. Geographers for Justice in Palestine conducted a petition drive at the 2025 AAG meeting in Detroit and surpassed the 10% threshold! The AAG council has approved our call for a special meeting and is planning the next steps, but it will be important to keep the pressure on to make sure that the resolutions and next steps proposed by GJP are actually exercised by the council.
 
-**If you would like to keep abreast of where the campaign is headed, please sign up for our listserv here \[LINK\].**
+**If you would like to keep abreast of where the campaign is headed, please <a href="https://geog4pal.org/join/">sign up for our listserv here</a>.**
 
 {{< /accordion >}}
 
@@ -53,7 +53,7 @@ Geographers for Justice in Palestine is currently drafting resolution language. 
 
 -   Disclose all current investments of the organization,
 
--   Take active and timely steps to divest from companies and state entities profiting from Israeli apartheid, according to the criteria of the [BDS movement](https://bdsmovement.net/what-is-bds), and with the assistance of the [American Friends Service Committee](https://bdsmovement.net/what-is-bds) who have identified a clear path to divestment focusing on companies facilitating or profiting from the Israeli settlement industry, the exploitation of natural resources on Occupied Palestinian land, walls and checkpoints, weapons and military equipment, and discrimination against Palestinians.
+-   Take active and timely steps to divest from companies and state entities profiting from Israeli apartheid, according to the criteria of the [BDS movement](https://bdsmovement.net/what-is-bds), and with the assistance of the [American Friends Service Committee](https://afsc.org/divest) who have identified a clear path to divestment focusing on companies facilitating or profiting from the Israeli settlement industry, the exploitation of natural resources on Occupied Palestinian land, walls and checkpoints, weapons and military equipment, and discrimination against Palestinians.
 
 -   Commit to refrain from making any future investments in companies and state entities profiting from Israeli apartheid until the Palestinian people have dismantled the apartheid structure of Israel, have been granted the right of return, and have successfully brought an end to the occupation.
 
@@ -82,9 +82,10 @@ Another example of member-driven change was the efforts by a group known as the 
 Finally, the Climate Action Committee, created as a task force in 2019, was charged with reducing emissions from the AAG's annual meeting. This task force was created after Pam Martin and Joe Nevins circulated a petition in spring 2019 to various geography listservs requesting that the AAG Council take significant action "to reduce CO2 emissions related to the Annual Meeting." A [report was published](https://www.aag.org/wp-content/uploads/2021/12/Climate_Action_Task_Force_Report_Spring_2021.pdf) in 2021, though many of the recommendations from this report remain unenacted. Nonetheless, the AAG did change its investments after these events and proudly describes them under the heading "Members spoke: AAG listened."
 
 A number of the results from these processes are important precedents for today. Firstly, principles of transparency and publicity, commitment to implementation, and devotion of resources are important to ensure appropriate action is taken. Importantly for our campaign, the Geography and Military Study Committee recommended comparing AAG policy "with the codes of ethics related to research developed by other disciplines such as the American Anthropological Association (AAA)\..." This would be a revealing comparison, since the [AAA has adopted a BDS resolution](https://americananthro.org/news/aaa-membership-endorses-academic-boycott-resolution/). Finally, while there are similarities and overlap between the NCG report recommendations and BDS (i.e., ending AAG participation in research partnerships and collaborations with military or intelligence agencies), there are also important differences. While the NCG report emphasizes the AAG's direct collaborations and complicity with military activities, implementing BDS would involve boycotting and divestment from all companies and institutions (including non-military organizations) that play a significant role in supporting and profiting from Israeli occupation, apartheid, and genocide in Palestine. Furthermore, the NCG ultimately did not rely on membership mobilization or votes after the initial petition. By contrast, our BDS effort steadfastly rests on ongoing membership support and mobilization -- in part because implementation requires education and organization of our members.
+<br><br>
+*We thank Gerry Pratt for sharing her lessons from NCG with us.*
 
 {{< /accordion >}}
 
 <br><br>
 
-*We thank Gerry Pratt for sharing her lessons from NCG with us.*

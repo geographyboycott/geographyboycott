@@ -2,6 +2,10 @@
 title: AAG for BDS
 ---
 
-> Want to join our campaign? Get involved today by pledging your support
+## Want to join our campaign?
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeB5AOsI2czjJM39dukxNrj_-horN2XzzbWMNwCptFAtO-8bQ/viewform?embedded=true" width="640" height="1800" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+### Get involved today by pledging your support
+
+<script type="text/javascript" src="https://app.mailjet.com/pas-nc-embedded-v1.js"></script>
+
+<iframe data-w-type="embedded" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://syonl.mjt.lu/wgt/syonl/0lti/form?c=f0d24ff0" width="100%" style="height: 0;"></iframe>
