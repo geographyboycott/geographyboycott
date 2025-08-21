@@ -89,4 +89,4 @@ A number of the results from these processes are important precedents for today.
 
 <br><br>
 
-> Read [communication from AAG](./communication-from-aag) about our campaign
+> Read [communication from AAG](./communication) about our campaign

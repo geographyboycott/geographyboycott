@@ -1,6 +1,5 @@
 ---
 title: Communication from AAG
-type: faq
 ---
 
 ### Letter to AAG members dated August 12, 2025
