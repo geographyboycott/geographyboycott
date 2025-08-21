@@ -5,8 +5,6 @@ type: faq
 
 ## BDS and the AAG
 
-> Read [communication from AAG](./communication-from-aag) about our campaign
-
 {{< accordion title="How does the call for BDS align with AAG Statement of Professional Ethics?" >}}
 
 The call for BDS aligns with the AAG Statement of Professional Ethics on numerous points.
@@ -91,3 +89,4 @@ A number of the results from these processes are important precedents for today.
 
 <br><br>
 
+> Read [communication from AAG](./communication-from-aag) about our campaign
